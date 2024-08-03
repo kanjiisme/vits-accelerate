@@ -19,4 +19,10 @@ bitsandbytes_windows
 lighting
 README.md
 test.wav
-isla_cleaned
+dataset
+hubert
+nsf_hifigan
+*.pt
+*.onnx
+*.zip
+*.pth
